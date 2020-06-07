@@ -3,6 +3,8 @@
 This project can be used for ogame farming ogame resources and for study purposes.
 This project was developed in Python3.7
 
+Video tutorial: https://youtu.be/OlSvxi-r0Jk
+
 Features:
 - fleet: 
   - sending expeditions
