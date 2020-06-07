@@ -1,0 +1,186 @@
+{
+    "mission_types": [
+        "Attack",
+        "GroupedAttack",
+        "Transport",
+        "Park",
+        "ParkInThatAlly",
+        "Spy",
+        "Colonize",
+        "RecycleDebrisField",
+        "Destroy",
+        "Expedition"
+    ],
+    "fleet_types": [
+        "transporterSmall",
+        "transporterLarge",
+        "colonyShip",
+        "recycler",
+        "espionageProbe",
+        "fighterLight",
+        "fighterHeavy",
+        "cruiser",
+        "battleship",
+        "interceptor",
+        "bomber",
+        "destroyer",
+        "deathstar",
+        "reaper",
+        "explorer"
+    ],
+    "template": {
+        "last_sent": "",
+        "from_planet": "DarkWolf",
+        "galaxy": 1,
+        "system": 1,
+        "position": 1,
+        "mission_type": "Attack",
+        "fleet": {
+            "transporterSmall": 20,
+            "transporterLarge": 5
+        }
+    },
+    "farms": [
+
+        {
+            "last_sent": "2020-03-26 22:42:25.144127",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 387,
+            "position": 8,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20,
+                "transporterLarge": 5
+            },
+            "id": 50,
+            "max_priority": false
+        },
+        {
+            "last_sent": "2020-03-26 22:42:25.144127",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 371,
+            "position": 8,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20,
+                "transporterLarge": 5
+            },
+            "id": 15,
+            "max_priority": false
+        },
+        {
+            "last_sent": "2020-03-26 22:42:39.335716",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 342,
+            "position": 9,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20
+            },
+            "id": 2,
+            "max_priority": false
+        },
+
+        {
+            "last_sent": "2020-03-26 22:02:13.143685",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 343,
+            "position": 11,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20
+            },
+            "id": 3,
+            "max_priority": false
+        },
+        {
+            "last_sent": "2020-03-26 22:02:27.488894",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 342,
+            "position": 6,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20
+            },
+            "id": 14,
+            "max_priority": false
+        },
+        {
+            "last_sent": "2020-03-26 22:29:12.519745",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 343,
+            "position": 12,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20
+            },
+            "id": 1,
+            "max_priority": false
+        },
+
+        {
+            "last_sent": "2020-03-26 22:03:10.075632",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 342,
+            "position": 14,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20
+            },
+            "id": 16,
+            "max_priority": false
+        },
+
+        {
+            "last_sent": "2020-03-26 21:22:29.383724",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 342,
+            "position": 10,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20
+            },
+            "id": 7,
+            "max_priority": false
+        },
+
+
+
+        {
+            "last_sent": "2020-03-26 22:15:49.134089",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 354,
+            "position": 4,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20
+            },
+            "id": 13,
+            "max_priority": false
+        },
+        {
+            "last_sent": "2020-03-26 22:16:03.603071",
+            "from_planet": "DarkWolf",
+            "galaxy": 1,
+            "system": 340,
+            "position": 9,
+            "mission_type": "Attack",
+            "fleet": {
+                "transporterSmall": 20
+            },
+            "id": 4,
+            "max_priority": false
+        }
+
+
+    ]
+}
